@@ -170,7 +170,7 @@ local function runApplication()
     return control
 end
 
-print("Larpiumware's (@mattware) ue larp have fun!")
+print("autoload fixed! credits: Larpiumware")
 
 function Backend.initialize(data)
     local root = data[1]
